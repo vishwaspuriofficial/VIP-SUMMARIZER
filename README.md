@@ -12,3 +12,5 @@ The summarization of this product is supported by tensorflow machine models via 
 This product will make your life's easier by pulling out major points from long texts.
 
 Please Use, Share and Enjoy this product and checkout more VIP EXCLUSUVE PRODUCTS at https://vipexclusivecontent.ml/products.html
+
+Check out product at https://vipsummarizer.ml/
